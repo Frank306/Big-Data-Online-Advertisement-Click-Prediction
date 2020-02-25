@@ -3,6 +3,7 @@ This project involves predicting clicks for on-line advertisements. The training
 data for 9 days from October 21, 2014 to October 29, 2014. The training data is in the file
 “ProjectTrainingData.csv.” There are in excess of 30 million records in this file. The variables in
 this file are as follows:<br/>
+<br/>
 	-id = the identifier of the ad (this may, or may not be unique to each row). <br/>
       	-click = 1 means the ad was clicked on. click = 0 means the ad was not clicked on.<br/>
       	-hour = the date and hour when the ad was displayed. Format is YYMMDDHH.<br/>
